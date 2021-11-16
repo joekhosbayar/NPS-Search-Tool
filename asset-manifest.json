@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NPS-Search-Tool/static/css/main.ac7e4ab1.chunk.css",
+    "main.js": "/NPS-Search-Tool/static/js/main.b1c8140c.chunk.js",
+    "main.js.map": "/NPS-Search-Tool/static/js/main.b1c8140c.chunk.js.map",
+    "runtime-main.js": "/NPS-Search-Tool/static/js/runtime-main.e3bc0741.js",
+    "runtime-main.js.map": "/NPS-Search-Tool/static/js/runtime-main.e3bc0741.js.map",
+    "static/js/2.10054b40.chunk.js": "/NPS-Search-Tool/static/js/2.10054b40.chunk.js",
+    "static/js/2.10054b40.chunk.js.map": "/NPS-Search-Tool/static/js/2.10054b40.chunk.js.map",
+    "static/js/3.e6d69349.chunk.js": "/NPS-Search-Tool/static/js/3.e6d69349.chunk.js",
+    "static/js/3.e6d69349.chunk.js.map": "/NPS-Search-Tool/static/js/3.e6d69349.chunk.js.map",
+    "index.html": "/NPS-Search-Tool/index.html",
+    "static/css/main.ac7e4ab1.chunk.css.map": "/NPS-Search-Tool/static/css/main.ac7e4ab1.chunk.css.map",
+    "static/js/2.10054b40.chunk.js.LICENSE.txt": "/NPS-Search-Tool/static/js/2.10054b40.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NPS-Search-Tool/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3bc0741.js",
+    "static/js/2.10054b40.chunk.js",
+    "static/css/main.ac7e4ab1.chunk.css",
+    "static/js/main.b1c8140c.chunk.js"
+  ]
+}

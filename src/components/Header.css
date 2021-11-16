@@ -1,0 +1,25 @@
+.NationalParks{
+    background-color:steelblue;
+    padding: 5px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-width: 10px;
+    border-color: crimson;
+    text-align: center;
+    color: white;
+    text-shadow:black;
+}
+body{
+    background-image: url(https://pixelz.cc/wp-content/uploads/2016/11/glacier-national-park-mountain-range-united-states-4k-wallpaper.jpg);
+    background-position: top;
+    background-repeat:no-repeat;
+    padding-top: 30px;
+    border-color: grey;
+    border-width: 50px;
+}
+.Joe{
+    font-size: 7px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+    color: black;
+}

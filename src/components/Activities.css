@@ -1,0 +1,24 @@
+.App{
+
+}
+.searchbar{
+  
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: 0 auto;
+    border-color: black;
+    border-style: ridge;
+    border-width: 5px;
+    border-spacing: 2px;
+}
+.resultsheader
+{
+    font-style: bold;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:whitesmoke;
+    border-style:ridge;
+    border-color:lightslategrey;
+    border-width:5px
+}
